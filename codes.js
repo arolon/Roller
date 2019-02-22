@@ -1,4 +1,3 @@
-document.write("Si Funciona <br>");
 
 function count (str, char){
   var chars = str.split('');
